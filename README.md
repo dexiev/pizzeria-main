@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://pizzeria-backend-success-1.onrender.com/) here
 1. Git Clone
 
 ```
-
+https://github.com/dexiev/pizzeria-main
 ```
 
 2. Backend setting
