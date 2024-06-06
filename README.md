@@ -6,11 +6,11 @@ Dino's Pizzeria, with a frontend built in React & Redux and a backend built in D
 
 ## Live Demo
 
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App uses Render and Netlify free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-DinosPizzeria.jenniferdelacuz.repl.co) here!!
+Check out [FRONTEND LIVE DEMO](https://dexie-pizzaria.netlify.app/) here!!
 
-Check out [API LIVE DEMO](https://backend-Dinospizzeria.jenniferdelacuz.repl.co) here!!
+Check out [API LIVE DEMO](https://pizzeria-backend-success-1.onrender.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-Dinospizzeria.jenniferdelacuz.repl.co)
 1. Git Clone
 
 ```
-https://github.com/Alisha313/SD.git
+
 ```
 
 2. Backend setting
